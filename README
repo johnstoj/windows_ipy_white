@@ -1,0 +1,7 @@
+Windows Automation example using IronPython and White.
+
+One time setup:
+	1. Install IronPython v2.7 (http://ironpython.net/download/)
+	
+Running the automation:
+        1. Open a command prompt to project> go
